@@ -1,5 +1,6 @@
-[comment]: <> (![Profile views](https://gpvc.arturio.dev/Janik6882))
-
+<!---
+![Profile views](https://gpvc.arturio.dev/Janik6882)
+-->
 ### Hi there 👋
 
 Hey there, I am Janik, a 18 Year Old Teenager from Berlin, Germany working on some python projects but also trying to learn new stuff. <br/>
