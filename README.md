@@ -1,4 +1,4 @@
-[comment]: <>![Profile views](https://gpvc.arturio.dev/Janik6882)
+[comment]: <> ![Profile views](https://gpvc.arturio.dev/Janik6882)
 
 ### Hi there 👋
 
