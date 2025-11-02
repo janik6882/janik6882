@@ -3,7 +3,7 @@
 -->
 ### Hi there 👋
 
-Hey there, I am Janik, a 18 Year Old Teenager from Berlin, Germany working on some python projects but also trying to learn new stuff. <br/>
+Hey there, I am Janik, a 2 Year Old Computer Science Student from Karlsruhe, Germany working on some python projects but also trying to learn new stuff. <br/>
 If you notice something in my code or have Ideas for improvements feel free to write me, open a pull-request/issue or do something similar.
 <!--
 <img
